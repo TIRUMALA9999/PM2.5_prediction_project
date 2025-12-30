@@ -4,8 +4,6 @@
 ![ML](https://img.shields.io/badge/ML-Scikit--learn%20%7C%20XGBoost-orange)
 ![AirQuality](https://img.shields.io/badge/Domain-Air%20Quality%20%28PM2.5%20%2F%20AQI%29-green)
 
-**Target audience:** Recruiters / Hiring Managers  
-**Style:** Resume-focused • Interview-ready • Explainable (portfolio)
 
 This repository contains a complete course project for **predicting air quality** using **PM2.5 pollutant measurements and weather features**. It includes:
 - **AQI Level Classification** (EPA categories) from PM2.5 + meteorological features
@@ -14,7 +12,7 @@ This repository contains a complete course project for **predicting air quality*
 
 ---
 
-## Key highlights (30-second recruiter summary)
+## Key highlights 
 
 - Built an end-to-end ML workflow to predict **daily air quality levels** using **PM2.5 + weather data**.
 - Engineered features including **lagged pollutant variables** to model temporal effects.
@@ -24,7 +22,7 @@ This repository contains a complete course project for **predicting air quality*
 - Achieved **~97.8% best classification accuracy** (MLP), with **~96.61%** as the next-best baseline (Logistic Regression) on the same task.
 - Delivered a professional project package: **executive summary + full report + architecture + presentation**.
 
-**ATS keywords:** Air Quality, PM2.5, AQI, Supervised Learning, Feature Engineering, Time-lag Features, Classification, Regression, Random Forest, XGBoost, Neural Networks (MLP), Model Evaluation, Cross-Validation, Pandas, Scikit-learn.
+**Keywords:** Air Quality, PM2.5, AQI, Supervised Learning, Feature Engineering, Time-lag Features, Classification, Regression, Random Forest, XGBoost, Neural Networks (MLP), Model Evaluation, Cross-Validation, Pandas, Scikit-learn.
 
 ---
 
@@ -62,7 +60,7 @@ PM2.5_prediction_project-main/
 
 ---
 
-## Approach (interview-explainable)
+## Approach
 
 ### 1) Data preparation
 - Combine PM2.5 and weather data into one daily dataset (`merged2018-19.xlsx`)
@@ -121,7 +119,7 @@ Open:
 
 ---
 
-## Interview talking points (copy/paste)
+## Points 
 
 - “I converted continuous PM2.5 into **EPA AQI categories** so results are explainable for the public and actionable.”
 - “Lagged PM2.5 features capture temporal effects—yesterday’s pollution impacts today’s AQI.”
@@ -131,7 +129,7 @@ Open:
 
 ---
 
-## Resume bullet points (copy/paste)
+## Resume Points
 
 - Built an end-to-end ML pipeline to predict **air quality (PM2.5/AQI)** using pollutant and weather features, including **time-lag feature engineering** to model temporal effects.  
 - Trained and benchmarked multi-class classifiers (Random Forest, SVM, KNN, Logistic Regression, **XGBoost**, **MLP**) to predict **EPA AQI categories**, achieving **~97.8% best accuracy**.  
