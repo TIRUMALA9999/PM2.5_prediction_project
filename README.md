@@ -1,4 +1,4 @@
-# PM2.5 / AQI Prediction Project — End-to-End ML (Classification + Regression)
+# PM2.5 / AQI Prediction Project — End-to-End ML (Classification + Regression) 
 
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
 ![ML](https://img.shields.io/badge/ML-Scikit--learn%20%7C%20XGBoost-orange)
